@@ -16,7 +16,10 @@ This project applies unsupervised learning and topic modeling to analyze over 10
 
 ## 📊 Sample Output
 
-**3D Visualization of Tweet Embeddings**
+### 🔑 Top Keywords by Topic
+![top_words](images/top_words_bars.png)
+
+### 3D Visualization of Tweet Embeddings
 ![3d_scatter](images/3d_scatter.png)
 
 ## 🗂️ Folder Structure
